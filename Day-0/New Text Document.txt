@@ -1,0 +1,3 @@
+1. Next Perfect Square - A Perfect Square is an integer, the square root of which is also an integer. WAF that takes in a non-negative integer and returns the next 
+perfect square. If the integer however, is not a perfect square itself, It makes it known.
+		
