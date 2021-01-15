@@ -1,1 +1,1 @@
-1. Write a function to calculate the volume of sphere.
+1. Write a Function that takes in a shpere's radius and calculates its volume. You can input the value of pi from the math module for this.
