@@ -1,0 +1,4 @@
+1. Write a funciton that determines whether a string makes for a valid password. for this string length should be between 6 characters and 12 characters long.
+and have atleast 1 letter, 1 digit and 1 from $,#,@.
+
+2. Write a Function to check whether a number is prime or not.
