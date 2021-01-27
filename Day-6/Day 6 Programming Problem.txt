@@ -1,1 +1,2 @@
 1. Write a function that determines whether a word is an isogram. An isogram is a word where no letter repeats. space and hiphens are exempted from this rule.
+2. Write a function that takes a number, toggles the digit at a specified position in its binary form and return the result.
