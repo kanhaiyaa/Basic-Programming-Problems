@@ -1,0 +1,3 @@
+Troubled Addition - Write a function that adds two numbers without using the + operator or the built in sum function.
+2. Battle of numbers - Write a function that takes a list and returns the greatest  number without using the max funtion().
+3. Write a function that takes two strings and checks whether they are anagrams. An anagram is a word or phrase formed by rearranging the letters of another.

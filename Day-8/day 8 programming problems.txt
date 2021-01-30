@@ -1,0 +1,5 @@
+﻿1. Pangram is a sentence that has each letter in the English Alphabet at least once. Write a function that checks whether a string is a pangram.
+2. Super Isogram - Take a sentence and analyze whether each word is isogram. Bear in mind this analysis is case in-sensitive.
+3. A function takes in a sentence. Make it return the number of times a word has its first and last characters the same as those of entire sentence.
+4. Write a function that takes 3 integers and returns ture if the last digit of the result of multiplication of first two equals that of the third.
+5. Write a function that takes in an integer, then check whether it is greater than the integer that of its mirror image.
