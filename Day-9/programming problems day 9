@@ -1,0 +1,5 @@
+1. Write a function that takes in a person's height in cm and represents it in the feets and inches.
+2. Write a function that takes in a verb and converts it into its gerund form. Gerund is a verb form that functions as a noun ending in ing.
+3. Write a function that takes in a string, make it capitalize the letters with even ASCII values and turn the lowercase with odd ascii values.
+4. NOT Gate!. Build a function that simulates a not gate. If the input is 0, it returns 1. and if it is 1 . it returns 0. do this without using logical, ternary, conditional, bitwise operators.
+5. Write a function that expands a number. For instance - 42301 = 40000+2000+300+1
