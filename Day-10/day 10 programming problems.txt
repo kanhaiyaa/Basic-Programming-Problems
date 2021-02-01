@@ -1,0 +1,3 @@
+Dogs age calculator - A dog's age for first two years = 10.5 years for each years, Every consequent year = 4 years of human year. Write a function that takes human age from user and calculate the age in dog years.
+Write a function that takes a number in 1's and 0's considering its binary, and returns its decimal equivalent.
+Write a function that takes in two lists. The first holds abbreviations and the second holds words. your task is to make sure no abbreviation suggests more than one word in the second list.
