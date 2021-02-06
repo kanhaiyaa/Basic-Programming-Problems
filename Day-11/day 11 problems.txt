@@ -1,0 +1,4 @@
+Write a function that takes nth term from user and prints fibonacci number for nth term.
+Write a function to print the steps of fibonacci series..Function will take steps as input from user.
+Write a function to print the factorial of number given by user.
+Write a function to check whether a given number is prime or not.
