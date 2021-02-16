@@ -1,0 +1,3 @@
+Write a function that takes a number as input from user. then checks whether number is even or odd.
+Write a function that takes a number and  returns the first digit of a number.
+Write a function that checks whether a given number/string is palindrome or not.

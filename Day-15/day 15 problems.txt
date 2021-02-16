@@ -1,0 +1,9 @@
+Write a funtion that takes in a list of lists and concatenate all the immediate sublists into one.
+Write a function that acts as an interpreter that quits on feeding "bye" to it.
+Write a function that takes two lists and from that, gets the value common in the two lists. Do this without making an intersection on the two sets.
+Write a function that takes in the id's of the people who subscribed to Netflix and of those who subscribed to Hotstar. Make it return the number of people that have atleast one subscription.
+The costiliest three: you are given a dictionary holding items form a store, and their prices. Write a function that returns the items with the highest price, the second highest and the third heighest. If two items costs the same. Include both.
+Write a function that takes in a list of tuples of items and their prices. Make it return a list of items and another list of theri prices
+Conflicts - A function takes in a list. Adjacent numbers don't like to stand together. Write a function that creates tuples from alternate numbers in the list.
+Write a function that takes in two integers of equal length. Returns the sum of the distance between its idividual digits.
+Pyhon Sys Module

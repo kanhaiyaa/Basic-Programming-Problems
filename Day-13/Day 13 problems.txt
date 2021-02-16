@@ -1,0 +1,7 @@
+Write a function that takes a number from user and returns the last digit of  number.
+Lottery - Write a function that takes in a list of names of those who have purchased a lottery ticket. Unbiasedly, pick a lottery winner, The number of tickets purchased does not affect the probability of being picked.
+Write a function that takes in a sentence and return the reversed words in sentence.
+Write a function to reverse a sentence
+Write a function that multiplies each value in a list with the length of the list and returns that.
+
+
