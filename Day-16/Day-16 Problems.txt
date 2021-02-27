@@ -1,0 +1,4 @@
+Write a function to check if year is a leap year or not.
+Write a function that takes in a integer and get its length without using the len function.
+Count the occurrences of each word in a given sentence and sort the words., Developer-5times, Tester-3Times,, Designer-1 times.
+Write a function to filter [10,20,30,40,50,60,70,80,90,100]  this list as [10,30,60,100].

@@ -1,0 +1,4 @@
+Write a Recursive Function to find factorial of a number.
+Write a Recursive Function to find sum of first n natural nubmers.
+Write a functiono to print fibonacci sequence upto nth terms.
+Write a Recursive Function to find nth term of fibonacci sequence.
